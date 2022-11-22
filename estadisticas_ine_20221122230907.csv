@@ -1,0 +1,513 @@
+id_poblacion,id_distrito,id_seccion,nom_poblacion,metrica,dimension,año
+02001,,,Abengibre,11.675,Renta neta media por persona ,2020
+02001,01,,Abengibre,11.675,Renta neta media por persona ,2020
+02001,01,001,Abengibre,11.675,Renta neta media por persona ,2020
+02002,,,Alatoz,9.866,Renta neta media por persona ,2020
+02002,01,,Alatoz,9.866,Renta neta media por persona ,2020
+02002,01,001,Alatoz,9.866,Renta neta media por persona ,2020
+02003,,,Albacete,12.529,Renta neta media por persona ,2020
+02003,01,,Albacete,14.260,Renta neta media por persona ,2020
+02003,01,001,Albacete,18.111,Renta neta media por persona ,2020
+02003,01,002,Albacete,16.631,Renta neta media por persona ,2020
+02003,01,003,Albacete,17.569,Renta neta media por persona ,2020
+02003,01,004,Albacete,19.354,Renta neta media por persona ,2020
+02003,01,005,Albacete,15.918,Renta neta media por persona ,2020
+02003,01,006,Albacete,12.334,Renta neta media por persona ,2020
+02003,01,007,Albacete,15.813,Renta neta media por persona ,2020
+02003,01,008,Albacete,14.006,Renta neta media por persona ,2020
+02003,01,009,Albacete,14.919,Renta neta media por persona ,2020
+02003,01,010,Albacete,12.384,Renta neta media por persona ,2020
+02003,01,011,Albacete,10.334,Renta neta media por persona ,2020
+02003,01,012,Albacete,16.583,Renta neta media por persona ,2020
+02003,01,013,Albacete,13.999,Renta neta media por persona ,2020
+02003,01,014,Albacete,14.255,Renta neta media por persona ,2020
+02003,01,015,Albacete,14.114,Renta neta media por persona ,2020
+02003,01,016,Albacete,,Renta neta media por persona ,2020
+02003,01,017,Albacete,11.904,Renta neta media por persona ,2020
+02003,02,,Albacete,11.708,Renta neta media por persona ,2020
+02003,02,001,Albacete,13.726,Renta neta media por persona ,2020
+02003,02,002,Albacete,12.847,Renta neta media por persona ,2020
+02003,02,003,Albacete,13.729,Renta neta media por persona ,2020
+02003,02,004,Albacete,12.340,Renta neta media por persona ,2020
+02003,02,005,Albacete,10.503,Renta neta media por persona ,2020
+02003,02,006,Albacete,10.328,Renta neta media por persona ,2020
+02003,02,007,Albacete,10.041,Renta neta media por persona ,2020
+02003,02,008,Albacete,9.397,Renta neta media por persona ,2020
+02003,02,009,Albacete,12.718,Renta neta media por persona ,2020
+02003,02,010,Albacete,13.095,Renta neta media por persona ,2020
+02003,02,011,Albacete,11.267,Renta neta media por persona ,2020
+02003,02,012,Albacete,11.627,Renta neta media por persona ,2020
+02003,02,013,Albacete,15.810,Renta neta media por persona ,2020
+02003,02,014,Albacete,10.931,Renta neta media por persona ,2020
+02003,02,015,Albacete,10.198,Renta neta media por persona ,2020
+02003,02,016,Albacete,12.911,Renta neta media por persona ,2020
+02003,02,017,Albacete,10.573,Renta neta media por persona ,2020
+02003,02,018,Albacete,13.530,Renta neta media por persona ,2020
+02003,02,019,Albacete,9.377,Renta neta media por persona ,2020
+02003,02,020,Albacete,8.839,Renta neta media por persona ,2020
+02003,02,021,Albacete,10.831,Renta neta media por persona ,2020
+02003,02,022,Albacete,12.245,Renta neta media por persona ,2020
+02003,02,023,Albacete,10.440,Renta neta media por persona ,2020
+02003,02,024,Albacete,13.135,Renta neta media por persona ,2020
+02003,03,,Albacete,11.164,Renta neta media por persona ,2020
+02003,03,001,Albacete,14.975,Renta neta media por persona ,2020
+02003,03,002,Albacete,13.206,Renta neta media por persona ,2020
+02003,03,003,Albacete,11.269,Renta neta media por persona ,2020
+02003,03,004,Albacete,11.230,Renta neta media por persona ,2020
+02003,03,005,Albacete,10.417,Renta neta media por persona ,2020
+02003,03,006,Albacete,9.584,Renta neta media por persona ,2020
+02003,03,007,Albacete,9.871,Renta neta media por persona ,2020
+02003,03,008,Albacete,9.373,Renta neta media por persona ,2020
+02003,03,009,Albacete,9.310,Renta neta media por persona ,2020
+02003,03,010,Albacete,15.086,Renta neta media por persona ,2020
+02003,03,011,Albacete,19.423,Renta neta media por persona ,2020
+02003,03,012,Albacete,9.813,Renta neta media por persona ,2020
+02003,03,013,Albacete,9.906,Renta neta media por persona ,2020
+02003,03,014,Albacete,8.869,Renta neta media por persona ,2020
+02003,04,,Albacete,11.144,Renta neta media por persona ,2020
+02003,04,001,Albacete,12.707,Renta neta media por persona ,2020
+02003,04,002,Albacete,10.872,Renta neta media por persona ,2020
+02003,04,003,Albacete,12.803,Renta neta media por persona ,2020
+02003,04,004,Albacete,11.107,Renta neta media por persona ,2020
+02003,04,005,Albacete,10.220,Renta neta media por persona ,2020
+02003,04,006,Albacete,8.841,Renta neta media por persona ,2020
+02003,04,007,Albacete,12.941,Renta neta media por persona ,2020
+02003,04,008,Albacete,11.127,Renta neta media por persona ,2020
+02003,04,009,Albacete,10.724,Renta neta media por persona ,2020
+02003,04,010,Albacete,12.504,Renta neta media por persona ,2020
+02003,04,011,Albacete,11.117,Renta neta media por persona ,2020
+02003,04,012,Albacete,9.313,Renta neta media por persona ,2020
+02003,04,013,Albacete,10.947,Renta neta media por persona ,2020
+02003,04,014,Albacete,11.410,Renta neta media por persona ,2020
+02003,05,,Albacete,11.699,Renta neta media por persona ,2020
+02003,05,001,Albacete,17.126,Renta neta media por persona ,2020
+02003,05,002,Albacete,12.909,Renta neta media por persona ,2020
+02003,05,003,Albacete,14.837,Renta neta media por persona ,2020
+02003,05,004,Albacete,9.917,Renta neta media por persona ,2020
+02003,05,005,Albacete,9.729,Renta neta media por persona ,2020
+02003,05,006,Albacete,9.975,Renta neta media por persona ,2020
+02003,05,007,Albacete,10.821,Renta neta media por persona ,2020
+02003,05,008,Albacete,9.815,Renta neta media por persona ,2020
+02003,05,009,Albacete,10.680,Renta neta media por persona ,2020
+02003,05,010,Albacete,15.350,Renta neta media por persona ,2020
+02003,05,011,Albacete,11.392,Renta neta media por persona ,2020
+02003,05,012,Albacete,,Renta neta media por persona ,2020
+02003,05,013,Albacete,9.913,Renta neta media por persona ,2020
+02003,06,,Albacete,17.066,Renta neta media por persona ,2020
+02003,06,001,Albacete,20.252,Renta neta media por persona ,2020
+02003,06,002,Albacete,17.429,Renta neta media por persona ,2020
+02003,06,003,Albacete,20.890,Renta neta media por persona ,2020
+02003,06,004,Albacete,14.298,Renta neta media por persona ,2020
+02003,06,005,Albacete,15.118,Renta neta media por persona ,2020
+02003,06,006,Albacete,12.147,Renta neta media por persona ,2020
+02003,06,007,Albacete,17.214,Renta neta media por persona ,2020
+02003,06,008,Albacete,17.644,Renta neta media por persona ,2020
+02003,06,009,Albacete,19.189,Renta neta media por persona ,2020
+02003,06,010,Albacete,17.317,Renta neta media por persona ,2020
+02003,06,011,Albacete,17.967,Renta neta media por persona ,2020
+02003,06,012,Albacete,16.979,Renta neta media por persona ,2020
+02003,06,013,Albacete,15.426,Renta neta media por persona ,2020
+02003,06,014,Albacete,16.930,Renta neta media por persona ,2020
+02003,07,,Albacete,11.891,Renta neta media por persona ,2020
+02003,07,001,Albacete,14.293,Renta neta media por persona ,2020
+02003,07,002,Albacete,12.832,Renta neta media por persona ,2020
+02003,07,003,Albacete,10.990,Renta neta media por persona ,2020
+02003,07,004,Albacete,13.863,Renta neta media por persona ,2020
+02003,07,005,Albacete,10.664,Renta neta media por persona ,2020
+02003,07,006,Albacete,11.899,Renta neta media por persona ,2020
+02003,07,007,Albacete,4.768,Renta neta media por persona ,2020
+02003,07,008,Albacete,12.930,Renta neta media por persona ,2020
+02003,07,009,Albacete,7.694,Renta neta media por persona ,2020
+02003,07,010,Albacete,10.687,Renta neta media por persona ,2020
+02003,07,011,Albacete,4.189,Renta neta media por persona ,2020
+02003,07,012,Albacete,,Renta neta media por persona ,2020
+02003,07,013,Albacete,13.919,Renta neta media por persona ,2020
+02003,07,014,Albacete,16.714,Renta neta media por persona ,2020
+02003,07,015,Albacete,9.171,Renta neta media por persona ,2020
+02003,07,016,Albacete,15.239,Renta neta media por persona ,2020
+02003,07,017,Albacete,15.409,Renta neta media por persona ,2020
+02003,08,,Albacete,11.386,Renta neta media por persona ,2020
+02003,08,001,Albacete,12.748,Renta neta media por persona ,2020
+02003,08,002,Albacete,10.127,Renta neta media por persona ,2020
+02003,08,003,Albacete,10.483,Renta neta media por persona ,2020
+02003,08,006,Albacete,11.379,Renta neta media por persona ,2020
+02004,,,Albatana,9.582,Renta neta media por persona ,2020
+02004,01,,Albatana,9.582,Renta neta media por persona ,2020
+02004,01,001,Albatana,9.582,Renta neta media por persona ,2020
+02005,,,Alborea,9.614,Renta neta media por persona ,2020
+02005,01,,Alborea,9.614,Renta neta media por persona ,2020
+02005,01,001,Alborea,9.614,Renta neta media por persona ,2020
+02006,,,Alcadozo,9.203,Renta neta media por persona ,2020
+02006,01,,Alcadozo,9.203,Renta neta media por persona ,2020
+02006,01,001,Alcadozo,9.203,Renta neta media por persona ,2020
+02007,,,Alcalá,10.047,Renta neta media por persona ,2020
+02007,01,,Alcalá del Júcar,10.047,Renta neta media por persona ,2020
+02007,01,001,Alcalá del Júcar,10.047,Renta neta media por persona ,2020
+02008,,,Alcaraz,9.963,Renta neta media por persona ,2020
+02008,01,,Alcaraz,9.963,Renta neta media por persona ,2020
+02008,01,001,Alcaraz,9.963,Renta neta media por persona ,2020
+02008,01,002,Alcaraz,,Renta neta media por persona ,2020
+02009,,,Almansa,10.752,Renta neta media por persona ,2020
+02009,01,,Almansa,10.206,Renta neta media por persona ,2020
+02009,01,001,Almansa,9.624,Renta neta media por persona ,2020
+02009,01,002,Almansa,10.593,Renta neta media por persona ,2020
+02009,02,,Almansa,10.122,Renta neta media por persona ,2020
+02009,02,001,Almansa,10.782,Renta neta media por persona ,2020
+02009,02,002,Almansa,11.279,Renta neta media por persona ,2020
+02009,02,003,Almansa,9.415,Renta neta media por persona ,2020
+02009,03,,Almansa,11.212,Renta neta media por persona ,2020
+02009,03,001,Almansa,10.183,Renta neta media por persona ,2020
+02009,03,002,Almansa,,Renta neta media por persona ,2020
+02009,03,003,Almansa,10.146,Renta neta media por persona ,2020
+02009,03,004,Almansa,12.011,Renta neta media por persona ,2020
+02009,03,005,Almansa,14.717,Renta neta media por persona ,2020
+02009,03,006,Almansa,11.208,Renta neta media por persona ,2020
+02009,03,007,Almansa,10.317,Renta neta media por persona ,2020
+02009,03,008,Almansa,11.621,Renta neta media por persona ,2020
+02009,03,009,Almansa,9.869,Renta neta media por persona ,2020
+02009,04,,Almansa,10.398,Renta neta media por persona ,2020
+02009,04,001,Almansa,9.687,Renta neta media por persona ,2020
+02009,04,002,Almansa,10.154,Renta neta media por persona ,2020
+02009,04,003,Almansa,9.810,Renta neta media por persona ,2020
+02009,04,004,Almansa,11.576,Renta neta media por persona ,2020
+02010,,,Alpera,8.915,Renta neta media por persona ,2020
+02010,01,,Alpera,8.942,Renta neta media por persona ,2020
+02010,01,001,Alpera,8.942,Renta neta media por persona ,2020
+02010,02,,Alpera,8.847,Renta neta media por persona ,2020
+02010,02,001,Alpera,8.847,Renta neta media por persona ,2020
+02011,,,Ayna,12.193,Renta neta media por persona ,2020
+02011,01,,Ayna,12.193,Renta neta media por persona ,2020
+02011,01,001,Ayna,12.193,Renta neta media por persona ,2020
+02012,,,Balazote,10.758,Renta neta media por persona ,2020
+02012,01,,Balazote,10.758,Renta neta media por persona ,2020
+02012,01,001,Balazote,11.492,Renta neta media por persona ,2020
+02012,01,002,Balazote,10.004,Renta neta media por persona ,2020
+02013,,,Balsa,12.599,Renta neta media por persona ,2020
+02013,01,,Balsa de Ves,12.599,Renta neta media por persona ,2020
+02013,01,001,Balsa de Ves,12.599,Renta neta media por persona ,2020
+02014,,,"Ballestero,",11.205,Renta neta media por persona ,2020
+02014,01,,"Ballestero, El",11.205,Renta neta media por persona ,2020
+02014,01,001,"Ballestero, El",11.205,Renta neta media por persona ,2020
+02015,,,Barrax,9.614,Renta neta media por persona ,2020
+02015,01,,Barrax,9.614,Renta neta media por persona ,2020
+02015,01,001,Barrax,9.614,Renta neta media por persona ,2020
+02016,,,Bienservida,9.209,Renta neta media por persona ,2020
+02016,01,,Bienservida,9.209,Renta neta media por persona ,2020
+02016,01,001,Bienservida,9.209,Renta neta media por persona ,2020
+02017,,,Bogarra,9.311,Renta neta media por persona ,2020
+02017,01,,Bogarra,9.311,Renta neta media por persona ,2020
+02017,01,001,Bogarra,9.311,Renta neta media por persona ,2020
+02018,,,Bonete,10.182,Renta neta media por persona ,2020
+02018,01,,Bonete,10.182,Renta neta media por persona ,2020
+02018,01,001,Bonete,10.182,Renta neta media por persona ,2020
+02019,,,"Bonillo,",10.197,Renta neta media por persona ,2020
+02019,01,,"Bonillo, El",10.197,Renta neta media por persona ,2020
+02019,01,001,"Bonillo, El",10.003,Renta neta media por persona ,2020
+02019,01,002,"Bonillo, El",10.682,Renta neta media por persona ,2020
+02019,01,003,"Bonillo, El",9.559,Renta neta media por persona ,2020
+02020,,,Carcelén,9.953,Renta neta media por persona ,2020
+02020,01,,Carcelén,9.953,Renta neta media por persona ,2020
+02020,01,001,Carcelén,9.953,Renta neta media por persona ,2020
+02021,,,Casas,10.041,Renta neta media por persona ,2020
+02021,01,,Casas de Juan Núñez,10.041,Renta neta media por persona ,2020
+02021,01,001,Casas de Juan Núñez,10.041,Renta neta media por persona ,2020
+02022,,,Casas,11.629,Renta neta media por persona ,2020
+02022,01,,Casas de Lázaro,11.629,Renta neta media por persona ,2020
+02022,01,001,Casas de Lázaro,11.629,Renta neta media por persona ,2020
+02023,,,Casas,10.926,Renta neta media por persona ,2020
+02023,01,,Casas de Ves,10.926,Renta neta media por persona ,2020
+02023,01,001,Casas de Ves,10.926,Renta neta media por persona ,2020
+02024,,,Casas-Ibáñez,9.829,Renta neta media por persona ,2020
+02024,01,,Casas-Ibáñez,9.841,Renta neta media por persona ,2020
+02024,01,001,Casas-Ibáñez,9.790,Renta neta media por persona ,2020
+02024,01,002,Casas-Ibáñez,9.895,Renta neta media por persona ,2020
+02024,02,,Casas-Ibáñez,9.762,Renta neta media por persona ,2020
+02024,02,001,Casas-Ibáñez,9.762,Renta neta media por persona ,2020
+02025,,,Caudete,9.763,Renta neta media por persona ,2020
+02025,01,,Caudete,9.763,Renta neta media por persona ,2020
+02025,01,001,Caudete,10.587,Renta neta media por persona ,2020
+02025,01,002,Caudete,8.342,Renta neta media por persona ,2020
+02025,01,003,Caudete,9.928,Renta neta media por persona ,2020
+02025,01,004,Caudete,9.666,Renta neta media por persona ,2020
+02025,01,005,Caudete,7.944,Renta neta media por persona ,2020
+02025,01,006,Caudete,10.327,Renta neta media por persona ,2020
+02025,01,007,Caudete,10.136,Renta neta media por persona ,2020
+02026,,,Cenizate,8.296,Renta neta media por persona ,2020
+02026,01,,Cenizate,8.296,Renta neta media por persona ,2020
+02026,01,001,Cenizate,8.296,Renta neta media por persona ,2020
+02027,,,Corral-Rubio,11.059,Renta neta media por persona ,2020
+02027,01,,Corral-Rubio,11.059,Renta neta media por persona ,2020
+02027,01,001,Corral-Rubio,11.059,Renta neta media por persona ,2020
+02028,,,Cotillas,9.726,Renta neta media por persona ,2020
+02028,01,,Cotillas,9.726,Renta neta media por persona ,2020
+02028,01,001,Cotillas,9.726,Renta neta media por persona ,2020
+02029,,,Chinchilla,11.074,Renta neta media por persona ,2020
+02029,01,,Chinchilla de Monte-Aragón,10.892,Renta neta media por persona ,2020
+02029,01,001,Chinchilla de Monte-Aragón,10.892,Renta neta media por persona ,2020
+02029,02,,Chinchilla de Monte-Aragón,11.304,Renta neta media por persona ,2020
+02029,02,001,Chinchilla de Monte-Aragón,11.304,Renta neta media por persona ,2020
+02030,,,Elche,9.772,Renta neta media por persona ,2020
+02030,01,,Elche de la Sierra,9.169,Renta neta media por persona ,2020
+02030,01,001,Elche de la Sierra,9.169,Renta neta media por persona ,2020
+02030,02,,Elche de la Sierra,10.192,Renta neta media por persona ,2020
+02030,02,001,Elche de la Sierra,10.192,Renta neta media por persona ,2020
+02031,,,Férez,9.592,Renta neta media por persona ,2020
+02031,01,,Férez,9.592,Renta neta media por persona ,2020
+02031,01,001,Férez,9.592,Renta neta media por persona ,2020
+02032,,,Fuensanta,10.834,Renta neta media por persona ,2020
+02032,01,,Fuensanta,10.834,Renta neta media por persona ,2020
+02032,01,001,Fuensanta,10.834,Renta neta media por persona ,2020
+02033,,,Fuente-Álamo,9.246,Renta neta media por persona ,2020
+02033,01,,Fuente-Álamo,9.246,Renta neta media por persona ,2020
+02033,01,001,Fuente-Álamo,9.498,Renta neta media por persona ,2020
+02033,01,002,Fuente-Álamo,9.057,Renta neta media por persona ,2020
+02034,,,Fuentealbilla,9.697,Renta neta media por persona ,2020
+02034,01,,Fuentealbilla,9.697,Renta neta media por persona ,2020
+02034,01,001,Fuentealbilla,9.697,Renta neta media por persona ,2020
+02035,,,"Gineta,",10.260,Renta neta media por persona ,2020
+02035,01,,"Gineta, La",10.260,Renta neta media por persona ,2020
+02035,01,001,"Gineta, La",9.757,Renta neta media por persona ,2020
+02035,01,002,"Gineta, La",10.634,Renta neta media por persona ,2020
+02036,,,Golosalvo,11.664,Renta neta media por persona ,2020
+02036,01,,Golosalvo,11.664,Renta neta media por persona ,2020
+02036,01,001,Golosalvo,11.664,Renta neta media por persona ,2020
+02037,,,Hellín,9.296,Renta neta media por persona ,2020
+02037,01,,Hellín,8.099,Renta neta media por persona ,2020
+02037,01,001,Hellín,7.392,Renta neta media por persona ,2020
+02037,01,002,Hellín,8.287,Renta neta media por persona ,2020
+02037,01,003,Hellín,7.001,Renta neta media por persona ,2020
+02037,01,004,Hellín,9.610,Renta neta media por persona ,2020
+02037,02,,Hellín,10.217,Renta neta media por persona ,2020
+02037,02,001,Hellín,10.021,Renta neta media por persona ,2020
+02037,02,002,Hellín,8.056,Renta neta media por persona ,2020
+02037,02,003,Hellín,11.456,Renta neta media por persona ,2020
+02037,02,004,Hellín,11.458,Renta neta media por persona ,2020
+02037,03,,Hellín,10.104,Renta neta media por persona ,2020
+02037,03,001,Hellín,11.061,Renta neta media por persona ,2020
+02037,03,002,Hellín,10.239,Renta neta media por persona ,2020
+02037,03,003,Hellín,10.948,Renta neta media por persona ,2020
+02037,03,004,Hellín,9.090,Renta neta media por persona ,2020
+02037,03,005,Hellín,9.705,Renta neta media por persona ,2020
+02037,03,006,Hellín,9.865,Renta neta media por persona ,2020
+02037,03,007,Hellín,9.874,Renta neta media por persona ,2020
+02037,04,,Hellín,6.755,Renta neta media por persona ,2020
+02037,04,001,Hellín,6.755,Renta neta media por persona ,2020
+02037,04,002,Hellín,,Renta neta media por persona ,2020
+02037,05,,Hellín,8.964,Renta neta media por persona ,2020
+02037,05,001,Hellín,8.642,Renta neta media por persona ,2020
+02037,05,003,Hellín,9.849,Renta neta media por persona ,2020
+02037,06,,Hellín,9.041,Renta neta media por persona ,2020
+02037,06,001,Hellín,9.041,Renta neta media por persona ,2020
+02038,,,"Herrera,",10.670,Renta neta media por persona ,2020
+02038,01,,"Herrera, La",10.670,Renta neta media por persona ,2020
+02038,01,001,"Herrera, La",10.670,Renta neta media por persona ,2020
+02039,,,Higueruela,10.617,Renta neta media por persona ,2020
+02039,01,,Higueruela,10.617,Renta neta media por persona ,2020
+02039,01,001,Higueruela,10.617,Renta neta media por persona ,2020
+02040,,,Hoya-Gonzalo,11.915,Renta neta media por persona ,2020
+02040,01,,Hoya-Gonzalo,11.915,Renta neta media por persona ,2020
+02040,01,001,Hoya-Gonzalo,11.915,Renta neta media por persona ,2020
+02041,,,Jorquera,9.357,Renta neta media por persona ,2020
+02041,01,,Jorquera,9.357,Renta neta media por persona ,2020
+02041,01,001,Jorquera,9.357,Renta neta media por persona ,2020
+02042,,,Letur,10.379,Renta neta media por persona ,2020
+02042,01,,Letur,10.379,Renta neta media por persona ,2020
+02042,01,001,Letur,10.379,Renta neta media por persona ,2020
+02043,,,Lezuza,10.087,Renta neta media por persona ,2020
+02043,01,,Lezuza,10.087,Renta neta media por persona ,2020
+02043,01,001,Lezuza,10.087,Renta neta media por persona ,2020
+02044,,,Liétor,9.899,Renta neta media por persona ,2020
+02044,01,,Liétor,9.899,Renta neta media por persona ,2020
+02044,01,001,Liétor,9.899,Renta neta media por persona ,2020
+02044,02,,Liétor,,Renta neta media por persona ,2020
+02044,02,001,Liétor,,Renta neta media por persona ,2020
+02045,,,Madrigueras,10.540,Renta neta media por persona ,2020
+02045,01,,Madrigueras,10.430,Renta neta media por persona ,2020
+02045,01,001,Madrigueras,10.334,Renta neta media por persona ,2020
+02045,01,002,Madrigueras,10.494,Renta neta media por persona ,2020
+02045,02,,Madrigueras,10.640,Renta neta media por persona ,2020
+02045,02,001,Madrigueras,11.185,Renta neta media por persona ,2020
+02045,02,002,Madrigueras,10.167,Renta neta media por persona ,2020
+02046,,,Mahora,9.938,Renta neta media por persona ,2020
+02046,01,,Mahora,9.938,Renta neta media por persona ,2020
+02046,01,001,Mahora,9.938,Renta neta media por persona ,2020
+02047,,,Masegoso,16.789,Renta neta media por persona ,2020
+02047,01,,Masegoso,16.789,Renta neta media por persona ,2020
+02047,01,001,Masegoso,16.789,Renta neta media por persona ,2020
+02048,,,Minaya,9.690,Renta neta media por persona ,2020
+02048,01,,Minaya,9.690,Renta neta media por persona ,2020
+02048,01,001,Minaya,9.690,Renta neta media por persona ,2020
+02049,,,Molinicos,10.484,Renta neta media por persona ,2020
+02049,01,,Molinicos,10.484,Renta neta media por persona ,2020
+02049,01,001,Molinicos,10.484,Renta neta media por persona ,2020
+02050,,,Montalvos,11.664,Renta neta media por persona ,2020
+02050,01,,Montalvos,11.664,Renta neta media por persona ,2020
+02050,01,001,Montalvos,11.664,Renta neta media por persona ,2020
+02051,,,Montealegre,9.709,Renta neta media por persona ,2020
+02051,01,,Montealegre del Castillo,10.106,Renta neta media por persona ,2020
+02051,01,001,Montealegre del Castillo,10.106,Renta neta media por persona ,2020
+02051,02,,Montealegre del Castillo,9.269,Renta neta media por persona ,2020
+02051,02,001,Montealegre del Castillo,9.269,Renta neta media por persona ,2020
+02052,,,Motilleja,10.277,Renta neta media por persona ,2020
+02052,01,,Motilleja,10.277,Renta neta media por persona ,2020
+02052,01,001,Motilleja,10.277,Renta neta media por persona ,2020
+02053,,,Munera,9.212,Renta neta media por persona ,2020
+02053,01,,Munera,8.750,Renta neta media por persona ,2020
+02053,01,001,Munera,8.750,Renta neta media por persona ,2020
+02053,02,,Munera,9.345,Renta neta media por persona ,2020
+02053,02,001,Munera,9.345,Renta neta media por persona ,2020
+02053,03,,Munera,9.589,Renta neta media por persona ,2020
+02053,03,001,Munera,9.589,Renta neta media por persona ,2020
+02054,,,Navas,10.051,Renta neta media por persona ,2020
+02054,01,,Navas de Jorquera,10.051,Renta neta media por persona ,2020
+02054,01,001,Navas de Jorquera,10.051,Renta neta media por persona ,2020
+02055,,,Nerpio,9.591,Renta neta media por persona ,2020
+02055,01,,Nerpio,9.591,Renta neta media por persona ,2020
+02055,01,001,Nerpio,9.591,Renta neta media por persona ,2020
+02056,,,Ontur,9.102,Renta neta media por persona ,2020
+02056,01,,Ontur,9.218,Renta neta media por persona ,2020
+02056,01,001,Ontur,9.218,Renta neta media por persona ,2020
+02056,02,,Ontur,9.018,Renta neta media por persona ,2020
+02056,02,001,Ontur,9.018,Renta neta media por persona ,2020
+02057,,,Ossa,9.773,Renta neta media por persona ,2020
+02057,01,,Ossa de Montiel,9.773,Renta neta media por persona ,2020
+02057,01,001,Ossa de Montiel,9.939,Renta neta media por persona ,2020
+02057,01,002,Ossa de Montiel,9.600,Renta neta media por persona ,2020
+02058,,,Paterna,10.249,Renta neta media por persona ,2020
+02058,01,,Paterna del Madera,10.249,Renta neta media por persona ,2020
+02058,01,001,Paterna del Madera,10.249,Renta neta media por persona ,2020
+02059,,,Peñascosa,11.810,Renta neta media por persona ,2020
+02059,01,,Peñascosa,11.810,Renta neta media por persona ,2020
+02059,01,001,Peñascosa,11.810,Renta neta media por persona ,2020
+02060,,,Peñas,13.651,Renta neta media por persona ,2020
+02060,01,,Peñas de San Pedro,13.651,Renta neta media por persona ,2020
+02060,01,001,Peñas de San Pedro,13.651,Renta neta media por persona ,2020
+02061,,,Pétrola,11.233,Renta neta media por persona ,2020
+02061,01,,Pétrola,11.233,Renta neta media por persona ,2020
+02061,01,001,Pétrola,11.233,Renta neta media por persona ,2020
+02062,,,Povedilla,10.219,Renta neta media por persona ,2020
+02062,01,,Povedilla,10.219,Renta neta media por persona ,2020
+02062,01,001,Povedilla,10.219,Renta neta media por persona ,2020
+02063,,,Pozohondo,9.783,Renta neta media por persona ,2020
+02063,01,,Pozohondo,9.783,Renta neta media por persona ,2020
+02063,01,001,Pozohondo,9.783,Renta neta media por persona ,2020
+02064,,,Pozo-Lorente,11.778,Renta neta media por persona ,2020
+02064,01,,Pozo-Lorente,11.778,Renta neta media por persona ,2020
+02064,01,001,Pozo-Lorente,11.778,Renta neta media por persona ,2020
+02065,,,Pozuelo,11.848,Renta neta media por persona ,2020
+02065,01,,Pozuelo,11.848,Renta neta media por persona ,2020
+02065,01,001,Pozuelo,11.848,Renta neta media por persona ,2020
+02066,,,"Recueja,",9.792,Renta neta media por persona ,2020
+02066,01,,"Recueja, La",9.792,Renta neta media por persona ,2020
+02066,01,001,"Recueja, La",9.792,Renta neta media por persona ,2020
+02067,,,Riópar,9.464,Renta neta media por persona ,2020
+02067,01,,Riópar,9.464,Renta neta media por persona ,2020
+02067,01,001,Riópar,9.464,Renta neta media por persona ,2020
+02068,,,Robledo,10.908,Renta neta media por persona ,2020
+02068,01,,Robledo,10.908,Renta neta media por persona ,2020
+02068,01,001,Robledo,10.908,Renta neta media por persona ,2020
+02069,,,"Roda,",10.290,Renta neta media por persona ,2020
+02069,01,,"Roda, La",10.424,Renta neta media por persona ,2020
+02069,01,001,"Roda, La",11.744,Renta neta media por persona ,2020
+02069,01,002,"Roda, La",10.631,Renta neta media por persona ,2020
+02069,01,003,"Roda, La",9.887,Renta neta media por persona ,2020
+02069,01,004,"Roda, La",9.621,Renta neta media por persona ,2020
+02069,02,,"Roda, La",11.049,Renta neta media por persona ,2020
+02069,02,001,"Roda, La",12.342,Renta neta media por persona ,2020
+02069,02,002,"Roda, La",9.913,Renta neta media por persona ,2020
+02069,02,003,"Roda, La",9.725,Renta neta media por persona ,2020
+02069,02,004,"Roda, La",11.888,Renta neta media por persona ,2020
+02069,03,,"Roda, La",8.965,Renta neta media por persona ,2020
+02069,03,001,"Roda, La",11.538,Renta neta media por persona ,2020
+02069,03,002,"Roda, La",7.664,Renta neta media por persona ,2020
+02070,,,Salobre,9.242,Renta neta media por persona ,2020
+02070,01,,Salobre,9.242,Renta neta media por persona ,2020
+02070,01,001,Salobre,9.242,Renta neta media por persona ,2020
+02071,,,San,10.945,Renta neta media por persona ,2020
+02071,01,,San Pedro,10.945,Renta neta media por persona ,2020
+02071,01,001,San Pedro,10.945,Renta neta media por persona ,2020
+02072,,,Socovos,8.749,Renta neta media por persona ,2020
+02072,01,,Socovos,8.795,Renta neta media por persona ,2020
+02072,01,001,Socovos,8.795,Renta neta media por persona ,2020
+02072,02,,Socovos,8.660,Renta neta media por persona ,2020
+02072,02,001,Socovos,8.660,Renta neta media por persona ,2020
+02073,,,Tarazona,9.311,Renta neta media por persona ,2020
+02073,01,,Tarazona de la Mancha,9.200,Renta neta media por persona ,2020
+02073,01,001,Tarazona de la Mancha,8.935,Renta neta media por persona ,2020
+02073,01,002,Tarazona de la Mancha,9.520,Renta neta media por persona ,2020
+02073,01,003,Tarazona de la Mancha,9.393,Renta neta media por persona ,2020
+02073,02,,Tarazona de la Mancha,9.629,Renta neta media por persona ,2020
+02073,02,001,Tarazona de la Mancha,10.054,Renta neta media por persona ,2020
+02073,02,002,Tarazona de la Mancha,9.186,Renta neta media por persona ,2020
+02074,,,Tobarra,9.065,Renta neta media por persona ,2020
+02074,01,,Tobarra,7.720,Renta neta media por persona ,2020
+02074,01,001,Tobarra,7.720,Renta neta media por persona ,2020
+02074,02,,Tobarra,9.403,Renta neta media por persona ,2020
+02074,02,001,Tobarra,9.098,Renta neta media por persona ,2020
+02074,02,002,Tobarra,9.651,Renta neta media por persona ,2020
+02074,03,,Tobarra,9.384,Renta neta media por persona ,2020
+02074,03,001,Tobarra,9.384,Renta neta media por persona ,2020
+02074,04,,Tobarra,8.988,Renta neta media por persona ,2020
+02074,04,001,Tobarra,8.988,Renta neta media por persona ,2020
+02075,,,Valdeganga,10.541,Renta neta media por persona ,2020
+02075,01,,Valdeganga,10.464,Renta neta media por persona ,2020
+02075,01,001,Valdeganga,10.464,Renta neta media por persona ,2020
+02075,02,,Valdeganga,10.698,Renta neta media por persona ,2020
+02075,02,001,Valdeganga,10.698,Renta neta media por persona ,2020
+02076,,,Vianos,10.474,Renta neta media por persona ,2020
+02076,01,,Vianos,10.474,Renta neta media por persona ,2020
+02076,01,001,Vianos,10.474,Renta neta media por persona ,2020
+02077,,,Villa,11.664,Renta neta media por persona ,2020
+02077,01,,Villa de Ves,11.664,Renta neta media por persona ,2020
+02077,01,001,Villa de Ves,11.664,Renta neta media por persona ,2020
+02078,,,Villalgordo,9.408,Renta neta media por persona ,2020
+02078,01,,Villalgordo del Júcar,9.408,Renta neta media por persona ,2020
+02078,01,001,Villalgordo del Júcar,9.408,Renta neta media por persona ,2020
+02079,,,Villamalea,9.165,Renta neta media por persona ,2020
+02079,01,,Villamalea,9.111,Renta neta media por persona ,2020
+02079,01,001,Villamalea,9.111,Renta neta media por persona ,2020
+02079,02,,Villamalea,9.226,Renta neta media por persona ,2020
+02079,02,001,Villamalea,9.226,Renta neta media por persona ,2020
+02080,,,Villapalacios,10.904,Renta neta media por persona ,2020
+02080,01,,Villapalacios,10.904,Renta neta media por persona ,2020
+02080,01,001,Villapalacios,10.904,Renta neta media por persona ,2020
+02081,,,Villarrobledo,10.004,Renta neta media por persona ,2020
+02081,01,,Villarrobledo,11.618,Renta neta media por persona ,2020
+02081,01,001,Villarrobledo,13.124,Renta neta media por persona ,2020
+02081,01,002,Villarrobledo,11.655,Renta neta media por persona ,2020
+02081,01,003,Villarrobledo,9.897,Renta neta media por persona ,2020
+02081,02,,Villarrobledo,9.552,Renta neta media por persona ,2020
+02081,02,001,Villarrobledo,10.026,Renta neta media por persona ,2020
+02081,02,002,Villarrobledo,8.866,Renta neta media por persona ,2020
+02081,02,003,Villarrobledo,8.712,Renta neta media por persona ,2020
+02081,02,004,Villarrobledo,10.357,Renta neta media por persona ,2020
+02081,03,,Villarrobledo,9.642,Renta neta media por persona ,2020
+02081,03,001,Villarrobledo,10.697,Renta neta media por persona ,2020
+02081,03,002,Villarrobledo,9.423,Renta neta media por persona ,2020
+02081,03,003,Villarrobledo,9.165,Renta neta media por persona ,2020
+02081,03,004,Villarrobledo,8.886,Renta neta media por persona ,2020
+02081,04,,Villarrobledo,9.924,Renta neta media por persona ,2020
+02081,04,001,Villarrobledo,10.373,Renta neta media por persona ,2020
+02081,04,002,Villarrobledo,11.191,Renta neta media por persona ,2020
+02081,04,003,Villarrobledo,9.213,Renta neta media por persona ,2020
+02081,04,004,Villarrobledo,9.270,Renta neta media por persona ,2020
+02082,,,Villatoya,10.507,Renta neta media por persona ,2020
+02082,01,,Villatoya,10.507,Renta neta media por persona ,2020
+02082,01,001,Villatoya,10.507,Renta neta media por persona ,2020
+02083,,,Villavaliente,10.246,Renta neta media por persona ,2020
+02083,01,,Villavaliente,10.246,Renta neta media por persona ,2020
+02083,01,001,Villavaliente,10.246,Renta neta media por persona ,2020
+02084,,,Villaverde,9.053,Renta neta media por persona ,2020
+02084,01,,Villaverde de Guadalimar,9.053,Renta neta media por persona ,2020
+02084,01,001,Villaverde de Guadalimar,9.053,Renta neta media por persona ,2020
+02085,,,Viveros,11.432,Renta neta media por persona ,2020
+02085,01,,Viveros,11.432,Renta neta media por persona ,2020
+02085,01,001,Viveros,11.432,Renta neta media por persona ,2020
+02086,,,Yeste,9.268,Renta neta media por persona ,2020
+02086,01,,Yeste,9.268,Renta neta media por persona ,2020
+02086,01,001,Yeste,9.691,Renta neta media por persona ,2020
+02086,01,003,Yeste,8.654,Renta neta media por persona ,2020
+02901,,,Pozo,9.438,Renta neta media por persona ,2020
+02901,01,,Pozo Cañada,9.438,Renta neta media por persona ,2020
+02901,01,001,Pozo Cañada,9.057,Renta neta media por persona ,2020
+02901,01,002,Pozo Cañada,9.884,Renta neta media por persona ,2020
